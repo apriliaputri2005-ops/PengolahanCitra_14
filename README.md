@@ -19,5 +19,18 @@ Mengimplementasikan **Fase Ekstraksi Fitur dan Pencocokan** untuk memverifikasi 
 Pastikan Anda telah menginstal *library* berikut sebelum menjalankan skrip:
 ```bash
 pip install opencv-python numpy matplotlib cmake dlib face_recognition
+```
 
 # PengolahanCitra_14
+
+### Dokumentasi Tugas 1 
+
+***Camera Real time***
+![foto](https://github.com/apriliaputri2005-ops/PengolahanCitra_14/blob/cab731bac33d43f24fe3ad18b2e9b2cc09c24160/Pemrograman_Citra14/camera.png)
+
+***Deteksi gambar***
+![foto](https://github.com/apriliaputri2005-ops/PengolahanCitra_14/blob/cab731bac33d43f24fe3ad18b2e9b2cc09c24160/Pemrograman_Citra14/eye%20detection%20output.png)
+
+![foto](https://github.com/apriliaputri2005-ops/PengolahanCitra_14/blob/cab731bac33d43f24fe3ad18b2e9b2cc09c24160/Pemrograman_Citra14/faca%20%26%20eye%20output.png)
+
+![foto](https://github.com/apriliaputri2005-ops/PengolahanCitra_14/blob/cab731bac33d43f24fe3ad18b2e9b2cc09c24160/Pemrograman_Citra14/face%20detector%20output.png)
